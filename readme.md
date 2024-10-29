@@ -14,10 +14,13 @@
    - Maestro Jedi
    - Gran Maestro Jedi
 
-2. **Completa los Ejercicios:**  
+2. **Elije un nombre:**
+   Elige un nombre Jedi. Sitúate en la carpeta del nivel correspondiente y crea una subcarpeta con el nombre que elegiste. Allí colocarás todos tus ejercicios.
+
+3. **Completa los Ejercicios:**  
    Según el rango elegido, encontrarás una serie de ejercicios para resolver. Selecciona tu lenguaje de programación preferido y comienza a enfrentar los desafíos.
 
-3. **Convención de Nombres de Archivos:**  
+4. **Convención de Nombres de Archivos:**  
    Al enviar tus soluciones, asegúrate de seguir la siguiente convención de nombres para tus archivos:  
    `número_nombre.extensión`  
    - **Número** se refiere al número del ejercicio.
